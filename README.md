@@ -5,7 +5,7 @@ Ce projet vise l'amélioration de mon premier navigateur web "slorpy" autrefois 
 La version en Python restera en avance tout au long de l'existance de celle en C++, comprenez qu'elle est plus simple ( en terme de création ) pour moi.
 
 
-**#For English people :**
+<h1>**#For English people :**</h1>
 
 This project's goal is to improve my first web browser "slorpy" made in python by the past.
 
